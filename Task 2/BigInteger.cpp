@@ -434,5 +434,5 @@ int BigDecimalInt::sign() {
 ostream& operator<<(ostream& out, BigDecimalInt b) {
     //o allow us to use the attributes of the object
     out << b.BigInteger << endl;
-    return out;
+    return out;   // i love begad .. begad is my favourite boy in fcai 
 }
