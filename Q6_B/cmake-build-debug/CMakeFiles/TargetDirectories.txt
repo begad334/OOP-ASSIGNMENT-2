@@ -1,0 +1,3 @@
+C:/Users/UraNUS/CLionProjects/problem_6B/cmake-build-debug/CMakeFiles/problem_6B.dir
+C:/Users/UraNUS/CLionProjects/problem_6B/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/UraNUS/CLionProjects/problem_6B/cmake-build-debug/CMakeFiles/rebuild_cache.dir
